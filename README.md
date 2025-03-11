@@ -40,27 +40,8 @@ To write a program to predict the profit of a city using the linear regression m
 10. Print the predicted value for the new data point.  
     - Optionally, inverse-transform the standardized prediction to return it to its original scale.
 
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
 
-## AIM:
-To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
-## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
-## Algorithm
-STEP 1 : START
-
-STEP 2 : Import the required library and read the dataframe.
-
-STEP 3 : Write a function computeCost to generate the cost function.
-
-STEP 4 : Perform iterations og gradient steps with learning rate.
-
-STEP 5 : Plot the Cost function using Gradient Descent and generate the required graph.
-
-STEP 6 : END
 ## Program:
 ```
 /*
